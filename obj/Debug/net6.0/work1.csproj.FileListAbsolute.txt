@@ -1,0 +1,15 @@
+D:\Destop\KmuttWork\code\02.09.65\work1\bin\Debug\net6.0\work1.exe
+D:\Destop\KmuttWork\code\02.09.65\work1\bin\Debug\net6.0\work1.deps.json
+D:\Destop\KmuttWork\code\02.09.65\work1\bin\Debug\net6.0\work1.runtimeconfig.json
+D:\Destop\KmuttWork\code\02.09.65\work1\bin\Debug\net6.0\work1.dll
+D:\Destop\KmuttWork\code\02.09.65\work1\bin\Debug\net6.0\work1.pdb
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.csproj.AssemblyReference.cache
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.AssemblyInfoInputs.cache
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.AssemblyInfo.cs
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.csproj.CoreCompileInputs.cache
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.dll
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\refint\work1.dll
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.pdb
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\work1.genruntimeconfig.cache
+D:\Destop\KmuttWork\code\02.09.65\work1\obj\Debug\net6.0\ref\work1.dll
